@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Silencer</title>
+  <subtitle>Don&#39;t talk,show me your code</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yunfactory.net/"/>
+  <updated>2016-04-24T03:48:18.000Z</updated>
+  <id>http://yunfactory.net/</id>
+  
+  <author>
+    <name>Kevin Cao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android-性能优化篇(一)</title>
+    <link href="http://yunfactory.net/2016/04/24/Android-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%AF%87-%E4%B8%80/"/>
+    <id>http://yunfactory.net/2016/04/24/Android-性能优化篇-一/</id>
+    <published>2016-04-24T03:44:18.000Z</published>
+    <updated>2016-04-24T03:48:18.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Android" scheme="http://yunfactory.net/tags/Android/"/>
+    
+  </entry>
+  
+</feed>
